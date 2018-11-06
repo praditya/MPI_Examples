@@ -13,3 +13,7 @@ Then execute the code :
 To run C code :
 "gcc <program_name>"
 "./a.out"
+
+mpi_hello_world.c 
+Reference : mpitutorial.com
+
